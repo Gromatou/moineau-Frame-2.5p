@@ -22,7 +22,7 @@ https://fr.aliexpress.com/item/1005006640914306.html
 **Requirement:** lightweight components
 
 ###  Analog  
-Congrats, you're a goat 🐐 — you can use an AIO with integrated VTX:
+You can use an AIO with integrated VTX:
 
 - **55€ — JHEMCU ELVTX**: 5g, 12A ESC, 400mW VTX; a cheap 5-in-1 AIO  
   <img src="pictures/aio-jhemcu-elvtx.png" alt="elvtx" height="300">  
