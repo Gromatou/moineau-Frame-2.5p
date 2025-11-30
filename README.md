@@ -1,4 +1,4 @@
-# Grognatiny — Light & Durable 2.5" FPV Frame
+# moineau-Frame-2.5p — Light & Durable 2.5" FPV Frame
 **(alias: how to make the PERFECT tiny FPV quad)**
 
 ## Key Features
