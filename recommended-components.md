@@ -77,4 +77,4 @@ You still need to stay lightweight:
 
 ##  Battery Choices  
 Which LiPo and charger should you buy?  
-*(Work in progress)*
+I realy recommand the bt3 mod on your lipos
