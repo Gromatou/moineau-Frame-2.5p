@@ -2,17 +2,16 @@
 
 ##  Motors  
 You can choose any motor with these specs: 6500KV–9000KV, 1103  
-*(You should buy 2 packs of 4. Motors are the only thing likely to break at this scale.)*
 
 ### 22€ (4pcs) — **Surpasshobby**: 3.6g, 8000KV; good for an analog build  
 <img src="pictures/motors-surpasshobby.png" alt="surpasshobby" height="300">
 https://fr.aliexpress.com/item/1005008163135913.html
 
-### 28€ (4pcs) — **Sparkhobby**: 4.5g, 8500KV; very strong, better KV, ideal for HD  
+### 28€ (4pcs) — **Sparkhobby**: 4.5g, 8500KV; very strong, more KV, ideal for HD  
 <img src="pictures/motors-sparkhobby.png" alt="sparkhobby" height="300">
 https://fr.aliexpress.com/item/1005009184817863.html
 
-### 22€ (4pcs) — **Sparkhobby**: 3.6g, 8500KV; light, cheap, widely available, but not aesthetic  
+### 22€ (4pcs) — **ysido**: 3.6g, 8500KV; light, cheap, widely available, but not aesthetic  
 <img src="pictures/motors-ysido.png" alt="ysido" height="300">
 https://fr.aliexpress.com/item/1005006640914306.html
 
@@ -28,9 +27,9 @@ You can use an AIO with integrated VTX:
   <img src="pictures/aio-jhemcu-elvtx.png" alt="elvtx" height="300">  
   https://fr.aliexpress.com/item/1005009013813390.html
 
-- **70€ — Happymodel X12**: 5g, 12A ESC, 400mW VTX; more expensive ≠ better  
-  <img src="pictures/aio-happymodel-x12.png" alt="x12" height="300">  
-  https://fr.aliexpress.com/item/1005005121813059.html
+- **70€ — Ysido**: 5g, 12-20A ESC, 400mW VTX; verry good pads, clean layout, am32, blackbox  
+  <img src="pictures/aio-ysido.png" alt="ysdio-aio" height="300">  
+  https://fr.aliexpress.com/item/1005006712888748.html
 
 - **25€ — Caddx Baby Ratel 2**: 3.5g, 165° FOV; night flight capable, best analog cam  
   <img src="pictures/camera-bbr2.png" alt="bbr2" height="300">  
@@ -77,4 +76,6 @@ You still need to stay lightweight:
 
 ##  Battery Choices  
 Which LiPo and charger should you buy?  
-I realy recommand the bt3 mod on your lipos
+I realy recommand the bt3 mod on your lipos, it make them lighter, eazier to charge, and you dont carry a balance plug anymore!
+  <img src="pictures/toothstore-bt3-GNB.png" alt="bt3 charger" height="300">  
+
