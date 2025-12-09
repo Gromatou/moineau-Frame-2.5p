@@ -77,5 +77,7 @@ You still need to stay lightweight:
 ##  Battery Choices  
 Which LiPo and charger should you buy?  
 I realy recommand the bt3 mod on your lipos, it make them lighter, eazier to charge, and you dont carry a balance plug anymore!
-  <img src="pictures/toothstore-bt3-GNB.png" alt="bt3 charger" height="300">  
+  <img src="pictures/toothstore-bt3-GNB.jpg" alt="bt3 charger" height="300">  
 
+https://www.gaoneng.shop/products/gaoneng-gnb-lihv-2s-7.6v-380mah-90c-lipo-battery-ph2.0-3pin-connector
+With thoses, the bt3 mod is verry eazy to do, and they are verry cheap
