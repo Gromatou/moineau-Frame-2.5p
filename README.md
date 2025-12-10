@@ -24,3 +24,11 @@
 ##  License  
 This project is distributed under a CC BY-NC 4.0 license  
 https://creativecommons.org/licenses/by-nc/4.0/?hl=fr-FR
+
+
+
+The only entities authorized to resell, distribute, or use this project for commercial purposes are:
+
+- Carbon fiber cutters on demand within the European Union
+- My "alouette" shop on thrusthover.fr
+(if you want to be added on this list you can ask me on discord "grognatou"
