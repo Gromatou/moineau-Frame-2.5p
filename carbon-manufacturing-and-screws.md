@@ -19,6 +19,8 @@
 
 * **Stack Screw Selection (For AIO + VTX / HD Builds)**
     * **Flight Stack (AIO FC + VTX/Receiver)** : **4x M2x16** screws + **4x 14 mm** standoffs.
+    * **AIO 5in1 (fc+esc+vtx+osd+rx)** : **4x M2x10** screws + **4x 8 mm** standoffs.
+
 
 * **Weight Saving Recommendation (Crucial for Performance)** 🚀
     > For **significant weight reduction**, the use of **titanium screws** and **aluminum alloy standoffs** is highly recommended. This substitution can save approximately **6%** of the total Take-Off Weight (**TOW**).
