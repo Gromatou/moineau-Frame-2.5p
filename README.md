@@ -22,5 +22,5 @@
 ---
 
 ##  License  
-This project is distributed under a CC BY 4.0 license  
-https://creativecommons.org/licenses/by/4.0/
+This project is distributed under a CC BY-NC 4.0 license  
+https://creativecommons.org/licenses/by-nc/4.0/?hl=fr-FR
