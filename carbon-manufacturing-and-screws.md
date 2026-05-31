@@ -13,9 +13,9 @@
 ### **🪛 Screw Choices (Screws and Standoffs)**
 
 * **Required Screw List**
-    * **14x M2x6** : For propellers and main frame standoffs.
-    * **16x M2x5** : For motor mounting.
-    * **4x M2x5** (Flat Head) : For securing the Bottom Plate.
+    * **8x M2x6** : For propellers.
+    * **4X M2x6** (Flat Head) main frame standoffs (bottom side)
+    * **20x M2x5** (Flat Head) Motors and top plate.
 
 * **Stack Screw Selection (For AIO + VTX / HD Builds)**
     * **Flight Stack (AIO FC + VTX/Receiver)** : **4x M2x16** screws + **4x 14 mm** standoffs.
